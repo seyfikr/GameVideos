@@ -1,5 +1,6 @@
 
 Oyunlarımın Videolarını Drive'a yüklüyorum linklerden ulaşabilirsiniz. Beğendiklerinizi Github'ımdan indirebilirsiniz
+(I upload videos of my games to Drive, you can access them from the links. You can download the ones you like from my Github)
 
 GitHub: https://github.com/seyfikr?tab=repositories
 
